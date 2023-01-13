@@ -1,2 +1,3 @@
 # service3
-1
+
+go ultimate service 3.0
